@@ -13,3 +13,6 @@
 /Datasets/fashion-dataset/validate_styles/
 /Datasets/sSubmission.csv
 /.idea/
+/.ipynb_checkpoints/
+/Datasets/.ipynb_checkpoints/
+/Datasets/fashion-dataset/.ipynb_checkpoints/
